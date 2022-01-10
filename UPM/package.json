@@ -1,0 +1,24 @@
+{
+  "name": "com.fairygui.unity",
+  "version": "4.3.0",
+  "displayName": "FairyGUI",
+  "description": "FairyGUI Runtime framework for Unity",
+  "unity": "2020.3",
+  "dependencies": {},
+  "keywords": [
+    "ui",
+    "FairyGUI",
+    "unity"
+  ],
+  "author": {
+    "name": "supertext",
+    "email": "supertext@icloud.com",
+    "url": "https://www.fairygui.com/"
+  },
+  "license": "MIT",
+	"category": "GUI",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sutext/FairyGUI-unity.git"
+	}
+}
