@@ -1,7 +1,7 @@
 {
     "name": "FairyGUI.Editor",
     "references": [
-        "FairyGUI",
+        "FairyGUI"
     ],
     "includePlatforms": [
         "Editor"
