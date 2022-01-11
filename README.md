@@ -26,6 +26,28 @@ The library was designed to work with Unity 5.6 and above, but is currently only
 
 ![](images/turn_page.gif)
 
+Usage
+====
+
+Add dependencies description in your manifest.json like this
+
+```json
+{
+  "dependencies": {
+    "com.fairygui.unity":"4.3.1"
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.npmjs.com",
+      "url": "https://registry.npmjs.org/",
+      "scopes": [
+        "com.fairygui.unity"
+      ]
+    }
+  ]
+}
+
+```
 Learn
 ====
 
